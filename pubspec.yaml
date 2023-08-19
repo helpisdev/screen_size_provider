@@ -1,6 +1,6 @@
 name: screen_size_provider
 description: A simple inhereted widget that provides screen size without context.
-version: 0.0.1
+version: 0.0.2
 publish_to: "none"
 
 environment:
